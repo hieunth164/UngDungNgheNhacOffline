@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Music</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="min">Min</string>
+    <string name="dalab">Da LAB</string>
+    <string name="bichphuong">Bích Phương</string>
+    <string name="kaytran">Kay Trần</string>
+
+    <string name="namlaydoibantay">Nắm Lấy Đôi Bàn Tay</string>
+    <string name="motnha">Một nhà</string>
+    <string name="somhomqua">Sớm Hôm Qua</string>
+    <string name="hanoigiotantam">Hà Nội Giờ Tan Tầm</string>
+    <string name="thanhxuan">Thanh Xuân</string>
+    <string name="thucgiac">Thức Giấc</string>
+    <string name="gaclaiaulo">Gác Lại Âu Lo</string>
+    <string name="tim">Tìm</string>
+    <string name="idontneedaman">I Dont Need A Man</string>
+    <string name="motculua">Một Cú Lừa</string>
+    <string name="embohutthuocchua">Em Bỏ Hút Thuốc Chưa</string>
+    <string name="dramaqueen">Drama Queen</string>
+    <string name="chumeo">Chú Mèo</string>
+    <string name="rangemmaioben">Rằng Em Mãi Ở Bên</string>
+    <string name="guianhxanho">Gửi Anh Xa Nhớ</string>
+
+</resources>

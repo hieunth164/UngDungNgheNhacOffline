@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/mnuOption"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:title="Option"
+        app:showAsAction="always" >
+
+        <menu>
+            <item android:id="@+id/themBaiHat"
+                android:icon="@drawable/addsong"
+                android:title="Thêm Bài Hát"/>
+            <item android:id="@+id/suaPlaylist"
+                android:icon="@drawable/refresh"
+                android:title="Sửa Playlist"/>
+            <item android:id="@+id/xoaPlaylist"
+                android:icon="@drawable/deletesong"
+                android:title="Xóa Playlist"/>
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <!--    android:gravity ="left"-->
+    <!--    android:layout_gravity="left"-->
+    <!--    app:showAsAction="ifRoom|collapseActionView"-->
+    <item
+        android:id="@+id/mnuSearch"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mnuOption"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:title="Option"
+        app:showAsAction="always" >
+
+        <menu>
+
+            <item
+                android:id="@+id/mnuPlaylist"
+                android:icon="@drawable/addplaylist"
+                android:title="Tạo PlayList" />
+
+            <item
+                android:id="@+id/mnuXoaLichSu"
+                android:icon="@drawable/trash"
+                android:title="Xóa Lịch Sử" />
+
+        </menu>
+    </item>
+
+</menu>
